@@ -2,11 +2,11 @@
   "base": {
     "primary": {
       "$type": "color",
-      "$value": "#1002a2"
+      "$value": "#3827e5"
     },
     "secondary": {
       "$type": "color",
-      "$value": "#bf0ec3"
+      "$value": "#f2daf2"
     }
   },
   "color-base-blue": {
