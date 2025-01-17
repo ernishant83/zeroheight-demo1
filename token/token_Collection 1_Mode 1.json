@@ -1,0 +1,26 @@
+{
+  "Color 2": {
+    "$type": "color",
+    "$value": "#fefefe"
+  },
+  "Color 3": {
+    "$type": "color",
+    "$value": "#fcfcfc"
+  },
+  "Color 4": {
+    "$type": "color",
+    "$value": "#fbfbfb"
+  },
+  "Color 5": {
+    "$type": "color",
+    "$value": "#fbfbfb"
+  },
+  "displaysmallFont": {
+    "$type": "string",
+    "$value": "Roboto"
+  },
+  "redcolor": {
+    "$type": "color",
+    "$value": "#e82c2c"
+  }
+}
